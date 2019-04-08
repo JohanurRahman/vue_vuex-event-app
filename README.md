@@ -31,7 +31,7 @@ json-server --watch db.json
   
 </kbd>
 
-<br>
+<hr>
 
 <kbd>
   
@@ -39,7 +39,7 @@ json-server --watch db.json
   
 </kbd>
 
-<br>
+<hr>
 
 <kbd>
   
