@@ -3,29 +3,49 @@
 #### This is a basic event adding and showing app made using Vue.js and Vuex
 
 ## Project setup
+
+#### Install dependencies
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+#### Run the server
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+#### Used json-server for mock database, To get json-server
 ```
-npm run build
+npm install -g json-server
 ```
-
-### Run your tests
+#### Initialize the mock database
 ```
-npm run test
+json-server --watch db.json
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+<br>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## App Screenshot
+
+<kbd>
+  
+  ![1](https://user-images.githubusercontent.com/42015613/55705516-c568f280-5a00-11e9-9306-5d7cd1d00dc1.JPG)
+  
+</kbd>
+
+<br>
+
+<kbd>
+  
+  ![2](https://user-images.githubusercontent.com/42015613/55705538-d1ed4b00-5a00-11e9-8523-b17025a504da.JPG)
+  
+</kbd>
+
+<br>
+
+<kbd>
+  
+  ![3](https://user-images.githubusercontent.com/42015613/55705556-dca7e000-5a00-11e9-82fa-2bbd3c99a421.JPG)
+  
+</kbd>
+
+
+
